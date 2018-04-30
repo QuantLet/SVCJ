@@ -1,0 +1,11 @@
+Name of Quantlet: SVCJ
+
+Published in: Pricing Cryptocurrency options: the case of CRIX and Bitcoin
+
+Description: MUST NOT BE EMPTY!
+
+Keywords: MUST NOT BE EMPTY!
+
+Author: MUST NOT BE EMPTY
+
+Submitted:  SHOULD NOT BE EMPTY
