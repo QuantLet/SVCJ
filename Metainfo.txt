@@ -2,10 +2,8 @@ Name of Quantlet: SVCJ
 
 Published in: Pricing Cryptocurrency options: the case of CRIX and Bitcoin
 
-Description: MUST NOT BE EMPTY!
+Description: Calibrate SVCJ by MCMC and obtain interpretable jump processes and then via simulation price options, the jumps present in the cryptocurrency fluctuations are an essential component.
 
-Keywords: MUST NOT BE EMPTY!
+Keywords: CRyptocurrency IndeX, CRIX, Bitcoin, Cryptocurrency, SVCJ, Option pricing, OCRIX
 
-Author: MUST NOT BE EMPTY
-
-Submitted:  SHOULD NOT BE EMPTY
+Author: Ai Jun Hou
