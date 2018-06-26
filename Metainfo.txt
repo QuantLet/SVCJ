@@ -1,4 +1,4 @@
-Name of Quantlet: SVCJ
+Name of Quantlet: SVCJ_crix
 
 Published in: Pricing Cryptocurrency options: the case of CRIX and Bitcoin
 
